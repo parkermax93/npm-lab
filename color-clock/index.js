@@ -14,3 +14,5 @@ function displayTime() {
 }
 
 window.onload = displayTime()
+
+# installed npm moment 
